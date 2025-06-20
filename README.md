@@ -22,18 +22,6 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 
 ---
 
-## 🛠️ Components Used
-
-| Component                      | Quantity | Approx. Cost |
-|-------------------------------|----------|---------------|
-| Arduino UNO                   | 2        | ₹1100 x 2     |
-| LASER Module (650 nm)         | 1        | ₹80           |
-| Photodiode (LED 55)           | 1        | ₹50           |
-| Plastic Optical Fiber (2m)    | 1        | ₹200          |
-| **Total Cost**                |          | **₹1430**     |
-
----
-
 ## 💻 Software Requirements
 
 - [Arduino IDE](https://www.arduino.cc/en/software)  
