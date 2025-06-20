@@ -11,7 +11,7 @@ This repository contains the code and documentation for a project that demonstra
 
 The objective of this project is to implement a **low-cost, secure, and fast communication system** for transmitting text data using optical fiber as the medium and LASER light as the carrier. The string is transmitted from one PC to another by converting characters to binary, sending via LASER through optical fiber, and then decoding it at the receiver using a photodiode.
 
-![Project Idea](image/project.png)
+![Project Idea](images/project.png)
 
 
 ---
