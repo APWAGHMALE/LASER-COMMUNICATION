@@ -48,7 +48,7 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 4. Decoded string is displayed via Serial Monitor.
 
 ![Block Diagram](Images/blockdiagram.png)
-![Working](Images/working.png)
+
 
 ---
 
