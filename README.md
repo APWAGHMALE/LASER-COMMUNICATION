@@ -25,7 +25,6 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 ## 💻 Software Requirements
 
 - [Arduino IDE](https://www.arduino.cc/en/software)  
-- [Tinkercad (Optional Simulation)](https://www.tinkercad.com/)
 
 ---
 
