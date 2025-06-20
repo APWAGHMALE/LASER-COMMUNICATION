@@ -105,10 +105,10 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 ## 📸 Project Preview
 
 ### Transmitter
-![Block Diagram](Images/transmitter.png)
+![Transmitter](Images/Transmitter.png)
 
 ### Receiver
-![Block Diagram](Images/receiver.png)
+![Receiver](Images/receiver.png)
 
 
 ---
