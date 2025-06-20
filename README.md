@@ -47,6 +47,7 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 3. Binary bits → ASCII → String.  
 4. Decoded string is displayed via Serial Monitor.
 
+### Block Diagram 
 ![Block Diagram](Images/blockdiagram.png)
 
 
@@ -74,6 +75,12 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 
 - Demonstrated successful transmission of text like `"Hello"` and `"Project123"` over optical fiber at baud rate of `9600`.  
 - Delay timing and baud rate critical for accurate reception.
+
+### Transmission Output
+  ![Transmission Output](Images/transmissionop.png)
+  
+### Reception Output
+  ![Reception Output](Images/receptionop.png)
 
 ---
 
