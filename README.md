@@ -90,18 +90,6 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 
 ---
 
-## 👥 Team Members
-
-- **Kunal Tupe**  
-- **Atharv Waghmale**  
-- **Om Wankar**  
-- **Mahesh Thorat**  
-
-**Guide:** Prof. P. S. Deshpande  
-Department of Electronics and Telecommunication, PVGCOET, Pune
-
----
-
 ## 📸 Project Preview
 
 > *(You can add photos or GIFs of your setup here)*
