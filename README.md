@@ -104,7 +104,12 @@ The objective of this project is to implement a **low-cost, secure, and fast com
 
 ## 📸 Project Preview
 
-> *(You can add photos or GIFs of your setup here)*
+### Transmitter
+![Block Diagram](Images/transmitter.png)
+
+### Receiver
+![Block Diagram](Images/receiver.png)
+
 
 ---
 
